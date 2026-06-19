@@ -1,7 +1,17 @@
 # Fixed Deposit (FD) Calculator
 
 A responsive fintech web application built using **React, TypeScript, Vite, HTML, and CSS** to calculate Fixed Deposit (FD) returns based on deposit amount, interest rate, tenure, and compounding frequency.
+## Live Demo
 
+🔗 **Live Application**
+
+https://jishashaji1413-hub.github.io/FD-Calculator/
+
+## GitHub Repository
+
+🔗 **Source Code**
+
+https://github.com/jishashaji1413-hub/FD-Calculator
 ## Features
 
 * Calculate FD Maturity Amount
@@ -25,18 +35,12 @@ A responsive fintech web application built using **React, TypeScript, Vite, HTML
 * HTML5
 * CSS3
 * jsPDF
+  
+## Screenshots
+<img width="538" height="493" alt="Screenshot 2026-06-19 154140" src="https://github.com/user-attachments/assets/e42647c7-002f-4348-80e6-b139e5f83bbc" />
 
-## Live Demo
+<img width="313" height="431" alt="Screenshot 2026-06-19 161708" src="https://github.com/user-attachments/assets/156aabcd-2f93-45a9-8d87-7d6cda808aae" />
 
-🔗 **Live Application**
-
-https://jishashaji1413-hub.github.io/FD-Calculator/
-
-## GitHub Repository
-
-🔗 **Source Code**
-
-https://github.com/jishashaji1413-hub/FD-Calculator
 
 ## Installation
 
