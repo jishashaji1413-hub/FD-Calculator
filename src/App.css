@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #9f9a97;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.fd-container {
+  width: 100%;
+  max-width: 500px;
+  background: rgb(229, 192, 192);
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.fd-container h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.form-group {
+  margin-bottom: 18px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d6d6d6;
+  border-radius: 8px;
+  outline: none;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  border-color: #2563eb;
+}
+
+button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  background: #2563eb;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.result-card {
+  margin-top: 25px;
+  padding: 20px;
+  background: #eff6ff;
+  border-radius: 12px;
+}
+
+.result-card h2 {
+  margin-bottom: 15px;
+}
+
+.result-card p {
+  margin-bottom: 10px;
+}
+
+.result-card strong {
+  float: right;
+}
+
+@media (max-width: 600px) {
+  .fd-container {
+    padding: 20px;
+  }
+}
+.result-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 12px 0;
+}
+
+.total {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #d6d6d6;
+  font-size: 18px;
+}
+.pdf-btn {
+  margin-top: 15px;
+  background: #16a34a;
+}
+
+.pdf-btn:hover {
+  background: #15803d;
+}
