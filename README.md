@@ -38,14 +38,6 @@ https://jishashaji1413-hub.github.io/FD-Calculator/
 
 https://github.com/jishashaji1413-hub/FD-Calculator
 
-## Screenshots
-
-Add screenshots of:
-
-* FD Calculator Form
-* Calculation Results
-* PDF Report Preview
-
 ## Installation
 
 Clone the repository:
